@@ -1,4 +1,4 @@
-# Medical Aesthetics Website
+# Advanced Aesthetics Website
 
 ## Overview
 
@@ -6,7 +6,7 @@ This project was created as a coding test for an interview with **Influx Marketi
 
 ## Project Description
 
-A responsive medical aesthetics website for "Rejuvenation Medical Aesthetics" featuring:
+A responsive medical aesthetics website for "Advanced Aesthetics" featuring:
 
 - Modern tabbed interface showcasing different treatments
 - Smooth animations and transitions
